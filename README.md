@@ -1,10 +1,10 @@
 # android-architecture-resources
 
-#.
+## Articles
 
-#.
+## Repositories
 
-##.
+### Libraries
 
 * [Android-ViewModelBinding](https://github.com/jakubkinst/Android-ViewModelBinding) - A lightweight library aiming to speed up Android app development by leveraging the new Android Data Binding together with the Model-View-ViewModel design pattern.
 * [AndroidViewModel](https://github.com/inloop/AndroidViewModel) - Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
@@ -23,7 +23,7 @@
 * [simple-mvp](https://github.com/tinmegali/simple-mvp) - Framework canônico para aplicação do padrão Model View Presenter no Android.
 * [Triad](https://github.com/nhaarman/Triad) - Custom view based MVP for Android.
 
-##.
+### Examples
 
 * [Aizoban](https://github.com/jparkie/Aizoban) - An online and offline Manga reading application for Android.
 * [android-arch-sample](https://github.com/remind101/android-arch-sample) - Sample app for MVP Architecture on Android.
