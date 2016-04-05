@@ -15,7 +15,6 @@
 * [mv2m](https://github.com/fabioCollini/mv2m) - Android MVVM lightweight library based on Android Data Binding.
 * [nimble](https://github.com/lenguyenthanh/nimble) - Nimble is a small, quick and flexible Model-View-Presenter(MVP) library for Android.
 * [Nucleus](https://github.com/konmik/nucleus) - Nucleus is a simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of a.
- [konmik](https://github.com/konmik)
 * [Phlux](https://github.com/konmik/Phlux) - Phlux is an Android library which helps to architect applications in a functional way.
 * [RoboMVVM](https://github.com/debdattabasu/RoboMVVM) - MVVM framework for Android.
 * [Robopupu](https://github.com/Fuusio/Robopupu) - Robopupu is an Android library for architecting Android applications.
