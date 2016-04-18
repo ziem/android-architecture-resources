@@ -61,6 +61,7 @@
 * [Android-Clean-Testing](https://github.com/txusballesteros/Android-Clean-Testing) - Android Testing Sample Project.
 * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 * [android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app) - Example of how to implement an Android TODO App using Facebook Flux Architecture.
+* [Android-ModelViewPresenter-Example](https://github.com/tutsplus/Android-ModelViewPresenter-Example) - How to Adopt Model View Presenter on Android.
 * [AndroidCleanMVP](https://github.com/MercuryIntermedia/AndroidCleanMVP) - Example of using MVP and Clean Architecture in Android.
 * [androidmvp](https://github.com/antoniolg/androidmvp) - MVP Android Example.
 * [AndroidTDDBootStrap](https://github.com/Piasy/AndroidTDDBootStrap) - A bootstrap project for TDD Android.
@@ -70,6 +71,8 @@
 * [clean-architecture](https://github.com/andbed/clean-architecture) - An example of the application built around clean architecture principles as defined. Uncle Bob.
 * [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) - Clean implementation on Android.
 * [CleanArchitecture](https://github.com/patrykpoborca/CleanArchitecture).
+* [cleancodeapp](https://github.com/unsign3d/cleancodeapp)
+* [Countries](https://github.com/patloew/countries) - An example Android app using Retrofit, Realm, Parceler, Dagger and the MVVM pattern with the data binding lib.
 * [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo) - The demo application that we've used in the Architecture Talk @ Android Dev Summit 2015.
 * [EasyMVP](https://github.com/JorgeCastilloPrz/EasyMVP) - Model-View-Presenter Android implementation plus Dagger scoping and Material backwards compatibility.
 * [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) - This sample project shows how to apply MVP and Clean architecture on an Android app.
