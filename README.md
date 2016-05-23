@@ -14,7 +14,7 @@
 * [Hexawhat Architecture?](https://www.novoda.com/blog/hexawhat-architecture/)
 * [Approaching Android with MVVM](https://labs.ribot.co.uk/approaching-android-with-mvvm-8ceec02d5442)
 * [MVVM on Android using the Data Binding Library](http://blog.stablekernel.com/mvvm-on-android-using-the-data-binding-library/)
-* [MVVM on Android: What You Need to Know](willowtreeapps.com/blog/mvvm-on-android-what-you-need-to-know)
+* [MVVM on Android: What You Need to Know](http://willowtreeapps.com/blog/mvvm-on-android-what-you-need-to-know)
 * [What is all this Clean Architecture jibber-jabber about? - Part 1](http://pguardiola.com/blog/clean-architecture-part-1/)
 * [What is all this Clean Architecture jibber-jabber about? - Part 2](http://pguardiola.com/blog/clean-architecture-part-2/)
 * [MVP - Presenters That Survive Configuration Changes (Part 1)](http://blog.bradcampbell.nz/mvp-presenters-that-survive-configuration-changes-part-1/)
@@ -24,7 +24,7 @@
 * [M — Model in MVC, MVP, MVVC in Android](https://medium.com/@artem_zin/m-model-from-mvc-mvp-in-android-flow-and-mortar-bd1e50c45395)
 * [Android Code That Scales, With MVP](http://engineering.remind.com/android-code-that-scales/)
 * [Android Application Architecture](https://labs.ribot.co.uk/android-application-architecture-8b6e34acda65) - Our journey from standard Activities and AsyncTasks to a modern MVP-based architecture powered by RxJava.
-* [MVP: The Missing Link](blog.sqisland.com/2015/11/mvp-missing-link.html)
+* [MVP: The Missing Link](http://blog.sqisland.com/2015/11/mvp-missing-link.html)
 * [Say goodbye to all main thread problems in MVP](http://panavtec.me/say-goodbye-to-all-main-thread-problems-in-mvp)
 * [A brief introduction to a cleaner Android architecture: The MVP pattern](https://davidguerrerodiaz.wordpress.com/2015/10/13/a-brief-introduction-to-a-cleaner-android-architecture-the-mvp-pattern/)
 * [MVPR: A Flexible, Testable Architecture for Android (Pt. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
