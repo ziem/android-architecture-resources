@@ -74,6 +74,7 @@
 * [CleanArchitecture](https://github.com/patrykpoborca/CleanArchitecture).
 * [cleancodeapp](https://github.com/unsign3d/cleancodeapp)
 * [Countries](https://github.com/patloew/countries) - An example Android app using Retrofit, Realm, Parceler, Dagger and the MVVM pattern with the data binding lib.
+* [CourseraDemoApp](https://github.com/richk/CourseraDemoApp) - Demo app to demonstrate creating Android app based on VIPER + MVVM
 * [dev-summit-architecture-demo](https://github.com/yigit/dev-summit-architecture-demo) - The demo application that we've used in the Architecture Talk @ Android Dev Summit 2015.
 * [EasyMVP](https://github.com/JorgeCastilloPrz/EasyMVP) - Model-View-Presenter Android implementation plus Dagger scoping and Material backwards compatibility.
 * [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) - This sample project shows how to apply MVP and Clean architecture on an Android app.
