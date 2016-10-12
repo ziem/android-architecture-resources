@@ -50,6 +50,7 @@
 * [simple-mvp](https://github.com/tinmegali/simple-mvp) - Framework canônico para aplicação do padrão Model View Presenter no Android.
 * [Triad](https://github.com/nhaarman/Triad) - Custom view based MVP for Android.
 * [LightCycle](https://github.com/soundcloud/lightcycle) - LightCycle is an Android library that helps break logic out of Activity and Fragment classes into small, self-contained components called LightCycles.
+* [YaMvp](https://github.com/Piasy/YaMvp) - Yet another Mvp library. Super simple, but with enough functionality.
 
 ### Examples
 
