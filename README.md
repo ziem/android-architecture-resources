@@ -30,6 +30,10 @@
 * [MVPR: A Flexible, Testable Architecture for Android (Pt. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
 * [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 
+## Videos
+
+* [Marko Miloš from Undabot: Clean architecture on Android](https://www.youtube.com/watch?v=3Mq5newPdck) - Droidcon Zagreb 2016 
+
 ## Repositories
 
 ### Libraries
