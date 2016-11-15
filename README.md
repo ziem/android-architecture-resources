@@ -42,8 +42,10 @@
 * [AndroidViewModel](https://github.com/inloop/AndroidViewModel) - Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
 * [Base](https://github.com/thiagokimo/Base) - Base is a lightweight library that gives you a clean architecture foundation for your Android MVP's.
 * [Conductor](https://github.com/bluelinelabs/Conductor) - A small, yet full-featured framework that allows building View-based Android applications.
+* [EasyMVP](https://github.com/6thsolution/EasyMVP) - A full-featured framework that allows building android applications following the principles of Clean Architecture.
 * [kotgo](https://github.com/nekocode/kotgo) - :flags: An android development framwork on kotlin using MVP architecture.
 * [mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
+* [Moxy](https://github.com/Arello-Mobile/Moxy) - Moxy is MVP library for Android.
 * [mv2m](https://github.com/fabioCollini/mv2m) - Android MVVM lightweight library based on Android Data Binding.
 * [nimble](https://github.com/lenguyenthanh/nimble) - Nimble is a small, quick and flexible Model-View-Presenter(MVP) library for Android.
 * [Nucleus](https://github.com/konmik/nucleus) - Nucleus is a simple Android library, which utilizes the Model-View-Presenter pattern to properly connect background tasks with visual parts of an application.
@@ -75,6 +77,7 @@
 * [Avengers](https://github.com/saulmm/Avengers) - This project aims to work as a demo project and reference using the common frameworks and tools used in production enviroments.
 * [bookdash-android-app](https://github.com/bookdash/bookdash-android-app) - Book Dash is an Android App for the NPO where you can download books in different languages for free.
 * [clean-architecture](https://github.com/andbed/clean-architecture) - An example of the application built around clean architecture principles as defined. Uncle Bob.
+* [Clean-Architecture-Android](https://github.com/erikcaffrey/Clean-Architecture-Android) - Example Android Clean Architecture used to explain how to use this architecture (rules) in our android applications.
 * [Clean-Contacts](https://github.com/PaNaVTEC/Clean-Contacts) - Clean implementation on Android.
 * [CleanArchitecture](https://github.com/patrykpoborca/CleanArchitecture).
 * [cleancodeapp](https://github.com/unsign3d/cleancodeapp)
@@ -112,6 +115,7 @@
 * [Rosie](https://github.com/Karumi/Rosie) - Rosie is an Android framework to create applications following the principles of Clean Architecture.
 * [rx-mvvm-android](https://github.com/ffgiraldez/rx-mvvm-android) - My way to MVVM using RxJava with new Android databinding.
 * [RxAndroidBootstrap](https://github.com/richardradics/RxAndroidBootstrap) - A project which showcases usage of Dagger 2, Rxjava and retrolambda among other open source libraries.
+* [RxMVP](https://github.com/serj-lotutovici/RxMVP) - Simple example of an application build with the MVP pattern using RxJava.
 * [Search](https://github.com/lurbas/Search) - viper architecture example.
 * [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example) - Example application that tries to make use of Clean Architecture.
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries.
