@@ -29,6 +29,7 @@
 * [A brief introduction to a cleaner Android architecture: The MVP pattern](https://davidguerrerodiaz.wordpress.com/2015/10/13/a-brief-introduction-to-a-cleaner-android-architecture-the-mvp-pattern/)
 * [MVPR: A Flexible, Testable Architecture for Android (Pt. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
 * [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
+* [Restoring state in Android MVP architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
 
 ## Videos
 
