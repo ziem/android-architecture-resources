@@ -30,6 +30,9 @@
 * [MVPR: A Flexible, Testable Architecture for Android (Pt. 1)](http://www.philosophicalhacker.com/2015/07/07/mvpr-a-flexible-testable-architecture-for-android-pt-1/)
 * [Introduction to Model View Presenter on Android](https://github.com/konmik/konmik.github.io/wiki/Introduction-to-Model-View-Presenter-on-Android)
 * [Restoring state in Android MVP architecture](https://pspdfkit.com/blog/2016/restoring-state-in-android-mvp-architecture/)
+* [Reactive Apps with Model-View-Intent - Part1 - Model](http://hannesdorfmann.com/android/mosby3-mvi-1)
+* [Reactive Apps with Model-View-Intent - Part2 - View and Intent](http://hannesdorfmann.com/android/mosby3-mvi-2)
+* [Reactive Apps with Model-View-Intent - Part3 - State Reducer](http://hannesdorfmann.com/android/mosby3-mvi-3)
 
 ## Videos
 
