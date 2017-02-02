@@ -33,6 +33,8 @@
 * [Reactive Apps with Model-View-Intent - Part1 - Model](http://hannesdorfmann.com/android/mosby3-mvi-1)
 * [Reactive Apps with Model-View-Intent - Part2 - View and Intent](http://hannesdorfmann.com/android/mosby3-mvi-2)
 * [Reactive Apps with Model-View-Intent - Part3 - State Reducer](http://hannesdorfmann.com/android/mosby3-mvi-3)
+* [Avenging - Android MVP without RxJava or Dagger](http://joaquimley.com/avenging-mvp-android/)
+* [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00)
 
 ## Videos
 
@@ -46,6 +48,7 @@
 * [AndroidViewModel](https://github.com/inloop/AndroidViewModel) - Separating data and state handling from Fragments or Activities without lots of boilerplate-code.
 * [Base](https://github.com/thiagokimo/Base) - Base is a lightweight library that gives you a clean architecture foundation for your Android MVP's.
 * [Conductor](https://github.com/bluelinelabs/Conductor) - A small, yet full-featured framework that allows building View-based Android applications.
+* [Coordinators](https://github.com/square/coordinators) - Simple lifecycle for your MVWhatever on Android.
 * [EasyMVP](https://github.com/6thsolution/EasyMVP) - A full-featured framework that allows building android applications following the principles of Clean Architecture.
 * [kotgo](https://github.com/nekocode/kotgo) - :flags: An android development framwork on kotlin using MVP architecture.
 * [mosby](https://github.com/sockeqwe/mosby) - A Model-View-Presenter library for modern Android apps.
@@ -79,6 +82,7 @@
 * [AndroidTDDBootStrap](https://github.com/Piasy/AndroidTDDBootStrap) - A bootstrap project for TDD Android.
 * [archi](https://github.com/ivacf/archi) - Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
 * [Avengers](https://github.com/saulmm/Avengers) - This project aims to work as a demo project and reference using the common frameworks and tools used in production enviroments.
+* [avenging](https://github.com/JoaquimLey/avenging) - MVP pattern - Android no Dagger or RxJava example.
 * [bookdash-android-app](https://github.com/bookdash/bookdash-android-app) - Book Dash is an Android App for the NPO where you can download books in different languages for free.
 * [clean-architecture](https://github.com/andbed/clean-architecture) - An example of the application built around clean architecture principles as defined. Uncle Bob.
 * [Clean-Architecture-Android](https://github.com/erikcaffrey/Clean-Architecture-Android) - Example Android Clean Architecture used to explain how to use this architecture (rules) in our android applications.
@@ -92,6 +96,7 @@
 * [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) - This sample project shows how to apply MVP and Clean architecture on an Android app.
 * [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works.
 * [elm-architecture-android](https://github.com/glung/elm-architecture-android) - An example of the ELM architecture on Android using Kotlin with Anko.
+* [ExampleGithubClient](https://github.com/Zhuinden/ExampleGithubClient) - This is an MVP example for Flowless, using Dagger2 subscoping and Bolts.
 * [generator-android-hipster](https://github.com/cavarzan/generator-android-hipster) - Android generator based on MVP, Dagger2, RxJava, Java/Kotlin Stack and usefull libraries for Android.
 * [GithubClient](https://github.com/frogermcs/GithubClient) - Example of Github API client implemented on top of Dagger 2 DI framework.
 * [GivesMeHopeAndroidClient](https://github.com/jparkie/GivesMeHopeAndroidClient) - An unofficial Gives Me Hope Android client for educational purposes.
@@ -119,7 +124,10 @@
 * [Rosie](https://github.com/Karumi/Rosie) - Rosie is an Android framework to create applications following the principles of Clean Architecture.
 * [rx-mvvm-android](https://github.com/ffgiraldez/rx-mvvm-android) - My way to MVVM using RxJava with new Android databinding.
 * [RxAndroidBootstrap](https://github.com/richardradics/RxAndroidBootstrap) - A project which showcases usage of Dagger 2, Rxjava and retrolambda among other open source libraries.
+* [RxJava-android-structure](https://github.com/manuelvicnt/RxJava-android-structure) - RxJava: Android MVVM App structure with Retrofit
+* [RxJava2-MVVM-Android-Structure](https://github.com/manuelvicnt/RxJava2-MVVM-Android-Structure) - This example is the implementation of a MVVM architecture for Android using RxJava 2 and Retrofit 2.
 * [RxMVP](https://github.com/serj-lotutovici/RxMVP) - Simple example of an application build with the MVP pattern using RxJava.
+* [RxMvpAndroid](https://github.com/nbarishok/RxMvpAndroid) - Sample to show how MVP, Clean Architecture and RxJava can help you in building Android App.
 * [Search](https://github.com/lurbas/Search) - viper architecture example.
 * [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example) - Example application that tries to make use of Clean Architecture.
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries.
