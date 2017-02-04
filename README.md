@@ -35,6 +35,11 @@
 * [Reactive Apps with Model-View-Intent - Part3 - State Reducer](http://hannesdorfmann.com/android/mosby3-mvi-3)
 * [Avenging - Android MVP without RxJava or Dagger](http://joaquimley.com/avenging-mvp-android/)
 * [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00)
+* [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21)
+* [Yet another MVP article — Part 2: How Dagger helps with the project](https://hackernoon.com/yet-another-mvp-article-part-2-how-dagger-helps-with-the-project-90d049a45e00)
+* [Yet another MVP article — Part 3: Calling APIs using Retrofit](https://hackernoon.com/yet-another-mvp-article-part-3-calling-apis-using-retrofit-23757f4eee05)
+* [Yet another MVP article — Part 4: RxJava and RxAndroid know how to response](https://hackernoon.com/yet-another-mvp-article-part-4-rxjava-and-rxandroid-knows-how-to-response-cde42ccc4958)
+* [Yet another MVP article — Part 5: Writing Test using a mixture of Dagger and Espresso](https://hackernoon.com/yet-another-mvp-article-part-5-writing-test-using-a-mixture-of-dagger-and-espresso-15c638182706)
 
 ## Videos
 
@@ -107,12 +112,14 @@
 * [hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android) - Android project using RxJava, Hexagonal architecture and MVP.
 * [https://github.com/saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) - An application about movies with material design.
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - An Android app that showcases the MVP pattern, Clean Architecture and RxJava.
++ [MVP-Pokemon](https://github.com/lewinskimaciej/mvp-pokemon) - MVP Sample.
 * [MVP-Simple-Demo](https://github.com/wongcain/MVP-Simple-Demo).
 * [MvpCleanArchitecture](https://github.com/glomadrian/MvpCleanArchitecture) - A sample project using Clean architecture and MVP in Android.
 * [MvpLoaderSample](https://github.com/czyrux/MvpLoaderSample) - Sample project to showcase how to use Android Loaders with MVP to preserve Presenter across orientation changes.
 * [MVPSampleApplication](https://github.com/hugokallstrom/MVPSampleApplication) - Sample application using MVP architecture.
 * [MVVMSampleApplication](https://github.com/hugokallstrom/MVVMSampleApplication) - Sample application using MVVM architecture.
 * [PopularMovies](https://github.com/Kistamushken/PopularMovies).
+* [Pokemon](https://github.com/matoelorriaga/pokemon) - This project shows how to implement MVP in Android.
 * [protohipster](https://github.com/flipper83/protohipster) - This is an small example about use clean architecture on Android development.
 * [RoomBookerMVP](https://github.com/macoscope/RoomBookerMVP).
 * [qualitymatters](https://github.com/artem-zinnatullin/qualitymatters) - Android Development Culture.
