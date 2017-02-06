@@ -84,6 +84,7 @@
 * [Android-ModelViewPresenter-Example](https://github.com/tutsplus/Android-ModelViewPresenter-Example) - How to Adopt Model View Presenter on Android.
 * [AndroidCleanMVP](https://github.com/MercuryIntermedia/AndroidCleanMVP) - Example of using MVP and Clean Architecture in Android.
 * [androidmvp](https://github.com/antoniolg/androidmvp) - MVP Android Example.
+* [AndroidMvpStarter](https://github.com/ravidsrk/android-mvp-starter) - Android App starter based on Android + MVP + Dagger2 + RxJava2 + Robolectric + Espresso + Mockito + JaCoCo.
 * [AndroidTDDBootStrap](https://github.com/Piasy/AndroidTDDBootStrap) - A bootstrap project for TDD Android.
 * [archi](https://github.com/ivacf/archi) - Repository that showcases 3 Android app architectures: "Standard Android", MVP and MVVM. The exact same app is built 3 times following the different patterns.
 * [Avengers](https://github.com/saulmm/Avengers) - This project aims to work as a demo project and reference using the common frameworks and tools used in production enviroments.
