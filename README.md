@@ -112,7 +112,8 @@
 * [hello-mvp-dagger-2](https://github.com/grandstaish/hello-mvp-dagger-2) - Android MVP example code using RxJava, Retrolambda, Dagger 2, and more.
 * [hello-mvp-mortar](https://github.com/grandstaish/hello-mvp-mortar).
 * [hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android) - Android project using RxJava, Hexagonal architecture and MVP.
-* [https://github.com/saulmm/Material-Movies](https://github.com/saulmm/Material-Movies) - An application about movies with material design.
+* [marvel](https://github.com/mmirhoseini/marvel) - Marvel Characters Android Application Assigned by smava GmbH.
+* [Material-Movies](https://github.com/saulmm/Material-Movies) - An application about movies with material design.
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - An Android app that showcases the MVP pattern, Clean Architecture and RxJava.
 + [MVP-Pokemon](https://github.com/lewinskimaciej/mvp-pokemon) - MVP Sample.
 * [MVP-Simple-Demo](https://github.com/wongcain/MVP-Simple-Demo).
