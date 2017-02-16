@@ -40,6 +40,9 @@
 * [Yet another MVP article — Part 3: Calling APIs using Retrofit](https://hackernoon.com/yet-another-mvp-article-part-3-calling-apis-using-retrofit-23757f4eee05)
 * [Yet another MVP article — Part 4: RxJava and RxAndroid know how to response](https://hackernoon.com/yet-another-mvp-article-part-4-rxjava-and-rxandroid-knows-how-to-response-cde42ccc4958)
 * [Yet another MVP article — Part 5: Writing Test using a mixture of Dagger and Espresso](https://hackernoon.com/yet-another-mvp-article-part-5-writing-test-using-a-mixture-of-dagger-and-espresso-15c638182706)
+* [Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module](https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5)
+* [On Navigation In Android-MVP](https://medium.com/@nbarishok/on-navigation-in-android-mvp-d26065586dcd)
+* [Android MVP — An End to if (view != null)](https://medium.com/@trionkidnapper/android-mvp-an-end-to-if-view-null-42bb6262a5d1)
 
 ## Videos
 
