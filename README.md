@@ -43,6 +43,7 @@
 * [Introducing Bourbon: Dribbble, Android, MVP and a Common-Code Module](https://medium.com/exploring-android/introducing-bourbon-dribbble-android-mvp-and-a-common-code-module-1d332a4028b5)
 * [On Navigation In Android-MVP](https://medium.com/@nbarishok/on-navigation-in-android-mvp-d26065586dcd)
 * [Android MVP — An End to if (view != null)](https://medium.com/@trionkidnapper/android-mvp-an-end-to-if-view-null-42bb6262a5d1)
+* [Let's make an MVVM at Android](https://stfalcon.com/en/blog/post/android-mvvm)
 
 ## Videos
 
