@@ -48,6 +48,8 @@
 ## Videos
 
 * [Marko Miloš from Undabot: Clean architecture on Android](https://www.youtube.com/watch?v=3Mq5newPdck) - Droidcon Zagreb 2016 
+* [Building Maintainable Android Applications](https://www.youtube.com/watch?v=MXrHWpGuYdU)
+* [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 
 ## Repositories
 
