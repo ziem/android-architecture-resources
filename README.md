@@ -111,6 +111,7 @@
 * [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works.
 * [elm-architecture-android](https://github.com/glung/elm-architecture-android) - An example of the ELM architecture on Android using Kotlin with Anko.
 * [ExampleGithubClient](https://github.com/Zhuinden/ExampleGithubClient) - This is an MVP example for Flowless, using Dagger2 subscoping and Bolts.
+* [exchange-rates-mvvm](https://github.com/krokers/exchange-rates-mvvm) - Sample Android project which incorporates MVVM, databinding, RxJava2, Dagger2 and Clean Architecture approach.
 * [Game-of-Thrones](https://github.com/tonilopezmr/Game-of-Thrones) - Android Clean Architecture with MVP using Dagger2, RxJava and Espresso.
 * [generator-android-hipster](https://github.com/cavarzan/generator-android-hipster) - Android generator based on MVP, Dagger2, RxJava, Java/Kotlin Stack and usefull libraries for Android.
 * [GithubClient](https://github.com/frogermcs/GithubClient) - Example of Github API client implemented on top of Dagger 2 DI framework.
@@ -122,6 +123,7 @@
 * [hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android) - Android project using RxJava, Hexagonal architecture and MVP.
 * [Just-Another-Android-App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration.
 * [marvel](https://github.com/mmirhoseini/marvel) - Marvel Characters Android Application Assigned by smava GmbH.
+* [master-slave-clean-store](https://github.com/stoyicker/master-slave-clean-store) - Master-slave template using Clean Architecture and https://github.com/NYTimes/Store.
 * [Material-Movies](https://github.com/saulmm/Material-Movies) - An application about movies with material design.
 * [MovieGuide](https://github.com/esoxjem/MovieGuide) - An Android app that showcases the MVP pattern, Clean Architecture and RxJava.
 + [MVP-Pokemon](https://github.com/lewinskimaciej/mvp-pokemon) - MVP Sample.
