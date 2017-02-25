@@ -72,6 +72,7 @@
 * [Phlux](https://github.com/konmik/Phlux) - Phlux is an Android library which helps to architect applications in a functional way.
 * [RoboMVVM](https://github.com/debdattabasu/RoboMVVM) - MVVM framework for Android.
 * [Robopupu](https://github.com/Fuusio/Robopupu) - Robopupu is an Android library for architecting Android applications.
+* [RxViper](https://github.com/RxViper/RxViper) - Android micro framework for developing apps based on clean VIPER architecture.
 * [scoop](https://github.com/lyft/scoop) - :icecream: micro framework for building view based modular Android applications.
 * [simple-mvp](https://github.com/tinmegali/simple-mvp) - Framework canônico para aplicação do padrão Model View Presenter no Android.
 * [Triad](https://github.com/nhaarman/Triad) - Custom view based MVP for Android.
@@ -155,4 +156,5 @@
 * [Search](https://github.com/lurbas/Search) - viper architecture example.
 * [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example) - Example application that tries to make use of Clean Architecture.
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries.
-* [UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) -  Sample project of MVP and Material Design using as repository a list of upcoming movies.
+* [UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) - Sample project of MVP and Material Design using as repository a list of upcoming movies.
+* [ViperArchitectureExample](https://github.com/lurbas/ViperArchitectureExample) - Viper architecture example.
