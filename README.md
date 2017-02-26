@@ -126,6 +126,7 @@
 * [hello-mvp-mortar](https://github.com/grandstaish/hello-mvp-mortar).
 * [hexagonal-mvp-reactive-android](https://github.com/ffgiraldez/hexagonal-mvp-reactive-android) - Android project using RxJava, Hexagonal architecture and MVP.
 * [Just-Another-Android-App](https://github.com/athkalia/Just-Another-Android-App) - An Android base app with loads of cool libraries/configuration.
+* [kotlin-android-scaffolding](https://github.com/android10/kotlin-android-scaffolding) - An android project structure using kotlin and most common libraries.
 * [marvel](https://github.com/mmirhoseini/marvel) - Marvel Characters Android Application Assigned by smava GmbH.
 * [master-slave-clean-store](https://github.com/stoyicker/master-slave-clean-store) - Master-slave template using Clean Architecture and https://github.com/NYTimes/Store.
 * [Material-Movies](https://github.com/saulmm/Material-Movies) - An application about movies with material design.
