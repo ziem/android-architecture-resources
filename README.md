@@ -33,6 +33,7 @@
 * [Reactive Apps with Model-View-Intent - Part1 - Model](http://hannesdorfmann.com/android/mosby3-mvi-1)
 * [Reactive Apps with Model-View-Intent - Part2 - View and Intent](http://hannesdorfmann.com/android/mosby3-mvi-2)
 * [Reactive Apps with Model-View-Intent - Part3 - State Reducer](http://hannesdorfmann.com/android/mosby3-mvi-3)
+* [Reactive Apps with Model-View-Intent - Part4 - Building UI Components](http://hannesdorfmann.com/android/mosby3-mvi-4)
 * [Avenging - Android MVP without RxJava or Dagger](http://joaquimley.com/avenging-mvp-android/)
 * [RxJava: Android MVVM App structure with Retrofit](https://medium.com/@manuelvicnt/rxjava-android-mvvm-app-structure-with-retrofit-a5605fa32c00)
 * [Yet another MVP article — Part 1: Lets get to know the project](https://hackernoon.com/yet-another-mvp-article-part-1-lets-get-to-know-the-project-d3fd553b3e21)
@@ -44,6 +45,7 @@
 * [On Navigation In Android-MVP](https://medium.com/@nbarishok/on-navigation-in-android-mvp-d26065586dcd)
 * [Android MVP — An End to if (view != null)](https://medium.com/@trionkidnapper/android-mvp-an-end-to-if-view-null-42bb6262a5d1)
 * [Let's make an MVVM at Android](https://stfalcon.com/en/blog/post/android-mvvm)
+* [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 
 ## Videos
 
