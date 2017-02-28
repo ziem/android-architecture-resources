@@ -118,6 +118,7 @@
 * [elm-architecture-android](https://github.com/glung/elm-architecture-android) - An example of the ELM architecture on Android using Kotlin with Anko.
 * [ExampleGithubClient](https://github.com/Zhuinden/ExampleGithubClient) - This is an MVP example for Flowless, using Dagger2 subscoping and Bolts.
 * [exchange-rates-mvvm](https://github.com/krokers/exchange-rates-mvvm) - Sample Android project which incorporates MVVM, databinding, RxJava2, Dagger2 and Clean Architecture approach.
+* [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 * [Game-of-Thrones](https://github.com/tonilopezmr/Game-of-Thrones) - Android Clean Architecture with MVP using Dagger2, RxJava and Espresso.
 * [generator-android-hipster](https://github.com/cavarzan/generator-android-hipster) - Android generator based on MVP, Dagger2, RxJava, Java/Kotlin Stack and usefull libraries for Android.
 * [GithubClient](https://github.com/frogermcs/GithubClient) - Example of Github API client implemented on top of Dagger 2 DI framework.
