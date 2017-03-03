@@ -46,6 +46,7 @@
 * [Android MVP — An End to if (view != null)](https://medium.com/@trionkidnapper/android-mvp-an-end-to-if-view-null-42bb6262a5d1)
 * [Let's make an MVVM at Android](https://stfalcon.com/en/blog/post/android-mvvm)
 * [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
+* [A detailed guide on developing Android apps using the Clean Architecture pattern](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029)
 
 ## Videos
 
