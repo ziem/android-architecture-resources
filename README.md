@@ -47,6 +47,7 @@
 * [Let's make an MVVM at Android](https://stfalcon.com/en/blog/post/android-mvvm)
 * [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 * [A detailed guide on developing Android apps using the Clean Architecture pattern](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029)
+* [Dagger 2 and MVP Architecture](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)
 
 ## Videos
 
@@ -160,6 +161,7 @@
 * [RxMvpAndroid](https://github.com/nbarishok/RxMvpAndroid) - Sample to show how MVP, Clean Architecture and RxJava can help you in building Android App.
 * [Search](https://github.com/lurbas/Search) - viper architecture example.
 * [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example) - Example application that tries to make use of Clean Architecture.
+* [simple-stack-example-mvp](https://github.com/Zhuinden/simple-stack/tree/master/simple-stack-example-mvp)
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries.
 * [UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) - Sample project of MVP and Material Design using as repository a list of upcoming movies.
 * [ViperArchitectureExample](https://github.com/lurbas/ViperArchitectureExample) - Viper architecture example.
