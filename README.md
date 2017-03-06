@@ -95,6 +95,7 @@
 * [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture) - This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
 * [android-flux-todo-app](https://github.com/lgvalle/android-flux-todo-app) - Example of how to implement an Android TODO App using Facebook Flux Architecture.
 * [Android-ModelViewPresenter-Example](https://github.com/tutsplus/Android-ModelViewPresenter-Example) - How to Adopt Model View Presenter on Android.
+* [android-mvvm-example](https://github.com/rheinfabrik/android-mvvm-example) - An example Application showing how to use MVVM (Model View ViewModel) on Android.
 * [Android-Testing-With-Kotlin](https://github.com/dbacinski/Android-Testing-With-Kotlin) - Android Clean Architecture tested with Kotlin.
 * [AndroidCleanMVP](https://github.com/MercuryIntermedia/AndroidCleanMVP) - Example of using MVP and Clean Architecture in Android.
 * [androidmvp](https://github.com/antoniolg/androidmvp) - MVP Android Example.
