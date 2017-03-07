@@ -164,6 +164,7 @@
 * [Search](https://github.com/lurbas/Search) - viper architecture example.
 * [shoppinglist-clean-architecture-example](https://github.com/mcharmas/shoppinglist-clean-architecture-example) - Example application that tries to make use of Clean Architecture.
 * [simple-stack-example-mvp](https://github.com/Zhuinden/simple-stack/tree/master/simple-stack-example-mvp)
+* [T-MVP](https://github.com/north2016/T-MVP) - Android AOP Architecture by Apt, AspectJ, Javassisit, based on Realm+Databinding+MVP+Retrofit+Rxjava.
 * [u2020](https://github.com/JakeWharton/u2020) - A sample Android app which showcases advanced usage of Dagger among other open source libraries.
 * [UpcomingMoviesMVP](https://github.com/jlmd/UpcomingMoviesMVP) - Sample project of MVP and Material Design using as repository a list of upcoming movies.
 * [ViperArchitectureExample](https://github.com/lurbas/ViperArchitectureExample) - Viper architecture example.
