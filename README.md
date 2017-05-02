@@ -119,11 +119,13 @@
 * [EasyMVP](https://github.com/JorgeCastilloPrz/EasyMVP) - Model-View-Presenter Android implementation plus Dagger scoping and Material backwards compatibility.
 * [EffectiveAndroid](https://github.com/rallat/EffectiveAndroid) - This sample project shows how to apply MVP and Clean architecture on an Android app.
 * [EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) - Sample project created to show some of the best Android practices to work in the Android UI Layer. The UI layer of this project has been implemented using MVP or MVVM (without binding engine) to show how this patterns works.
+* [Elephant](https://github.com/Freelander/Elephant) - Elephant is PHPHub Community Android unofficial client, base on Material Design + MVP + RxJava + Retrofit.
 * [elm-architecture-android](https://github.com/glung/elm-architecture-android) - An example of the ELM architecture on Android using Kotlin with Anko.
 * [ExampleGithubClient](https://github.com/Zhuinden/ExampleGithubClient) - This is an MVP example for Flowless, using Dagger2 subscoping and Bolts.
 * [exchange-rates-mvvm](https://github.com/krokers/exchange-rates-mvvm) - Sample Android project which incorporates MVVM, databinding, RxJava2, Dagger2 and Clean Architecture approach.
 * [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 * [Game-of-Thrones](https://github.com/tonilopezmr/Game-of-Thrones) - Android Clean Architecture with MVP using Dagger2, RxJava and Espresso.
+* [GeekNews](https://github.com/codeestX/GeekNews) - A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide 
 * [generator-android-hipster](https://github.com/cavarzan/generator-android-hipster) - Android generator based on MVP, Dagger2, RxJava, Java/Kotlin Stack and usefull libraries for Android.
 * [GithubClient](https://github.com/frogermcs/GithubClient) - Example of Github API client implemented on top of Dagger 2 DI framework.
 * [GivesMeHopeAndroidClient](https://github.com/jparkie/GivesMeHopeAndroidClient) - An unofficial Gives Me Hope Android client for educational purposes.
