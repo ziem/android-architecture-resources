@@ -48,10 +48,11 @@
 * [Model-View-Presenter: Android guidelines](https://medium.com/@cervonefrancesco/model-view-presenter-android-guidelines-94970b430ddf)
 * [A detailed guide on developing Android apps using the Clean Architecture pattern](https://medium.com/@dmilicic/a-detailed-guide-on-developing-android-apps-using-the-clean-architecture-pattern-d38d71e94029)
 * [Dagger 2 and MVP Architecture](https://adityaladwa.wordpress.com/2016/05/11/dagger-2-and-mvp-architecture/)
+* [Clean Architecture, MVC, MVP, MVVM notes ](https://github.com/jemshit/android_architecture_notes)
 
 ## Videos
 
-* [Marko Miloš from Undabot: Clean architecture on Android](https://www.youtube.com/watch?v=3Mq5newPdck) - Droidcon Zagreb 2016 
+* [Marko Miloš from Undabot: Clean architecture on Android](https://www.youtube.com/watch?v=3Mq5newPdck) - Droidcon Zagreb 2016
 * [Building Maintainable Android Applications](https://www.youtube.com/watch?v=MXrHWpGuYdU)
 * [Robert C Martin - Clean Architecture](https://www.youtube.com/watch?v=Nltqi7ODZTM)
 * [Android Application Architecture (Android Dev Summit 2015)](https://www.youtube.com/watch?v=BlkJzgjzL0c)
@@ -82,6 +83,7 @@
 * [Triad](https://github.com/nhaarman/Triad) - Custom view based MVP for Android.
 * [LightCycle](https://github.com/soundcloud/lightcycle) - LightCycle is an Android library that helps break logic out of Activity and Fragment classes into small, self-contained components called LightCycles.
 * [YaMvp](https://github.com/Piasy/YaMvp) - Yet another Mvp library. Super simple, but with enough functionality.
+* [EliteMvp](https://github.com/jemshit/EliteMvp) - Simple, Tiny, Extendable Android MVP library.
 
 ### Examples
 
@@ -125,7 +127,7 @@
 * [exchange-rates-mvvm](https://github.com/krokers/exchange-rates-mvvm) - Sample Android project which incorporates MVVM, databinding, RxJava2, Dagger2 and Clean Architecture approach.
 * [FastHub](https://github.com/k0shk0sh/FastHub) - FastHub the ultimate GitHub client for Android.
 * [Game-of-Thrones](https://github.com/tonilopezmr/Game-of-Thrones) - Android Clean Architecture with MVP using Dagger2, RxJava and Espresso.
-* [GeekNews](https://github.com/codeestX/GeekNews) - A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide 
+* [GeekNews](https://github.com/codeestX/GeekNews) - A pure reading App based on Material Design + MVP + RxJava2 + Retrofit + Dagger2 + Realm + Glide
 * [generator-android-hipster](https://github.com/cavarzan/generator-android-hipster) - Android generator based on MVP, Dagger2, RxJava, Java/Kotlin Stack and usefull libraries for Android.
 * [GithubClient](https://github.com/frogermcs/GithubClient) - Example of Github API client implemented on top of Dagger 2 DI framework.
 * [GivesMeHopeAndroidClient](https://github.com/jparkie/GivesMeHopeAndroidClient) - An unofficial Gives Me Hope Android client for educational purposes.
